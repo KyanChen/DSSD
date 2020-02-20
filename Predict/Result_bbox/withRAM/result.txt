@@ -1,0 +1,5 @@
+			detectionRate	falseAlarmRate
+airplane		0.930		0.086
+ship		0.893		0.109
+oil_tank		0.914		0.064
+mean		0.912		0.087
